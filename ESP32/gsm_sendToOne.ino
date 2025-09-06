@@ -1,3 +1,4 @@
+//use Arduino Uno and GSM SIM900A
 #include <SoftwareSerial.h>
 
 SoftwareSerial sim900(7, 8); // RX, TX
